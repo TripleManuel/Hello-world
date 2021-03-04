@@ -2,4 +2,3 @@
 Testing on the working of git
 Yeezz adding some more for readme
 
-The new guy(9896) is making some changes
